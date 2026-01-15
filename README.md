@@ -1,7 +1,7 @@
 # AI Agency
 
 <p align="center">
-  <img src="art-kit/SVG/asset 6.svg" alt="AI Agency Logo" width="600"/>
+  <img src="art-kit/SVG/Asset-6.svg" alt="AI Agency Logo" width="600"/>
 </p>
 
 <p align="center">
