@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="art-kit/SVG/icon-target.svg" width="24" height="24" align="center"/> The Problem We Solve
+## <img src="extension-archive/art-kit/SVG/icon-target.svg" width="24" height="24" align="center"/> The Problem We Solve
 
 Modern AI-assisted development lacks structure and control:
 
@@ -24,7 +24,7 @@ AI Agency provides a structured, visual system that **eliminates manual prompt e
 
 ---
 
-## <img src="art-kit/SVG/icon-tools.svg" width="24" height="24" align="center"/> What We Bring
+## <img src="extension-archive/art-kit/SVG/icon-tools.svg" width="24" height="24" align="center"/> What We Bring
 
 ### Core Features
 
@@ -63,7 +63,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="art-kit/SVG/icon-users.svg" width="24" height="24" align="center"/> Who It's For
+## <img src="extension-archive/art-kit/SVG/icon-users.svg" width="24" height="24" align="center"/> Who It's For
 
 ### Solo Developers
 - Eliminate repetitive prompt engineering
@@ -85,7 +85,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="art-kit/SVG/icon-calendar.svg" width="24" height="24" align="center"/> Availability
+## <img src="extension-archive/art-kit/SVG/icon-calendar.svg" width="24" height="24" align="center"/> Availability
 
 **Current Status**: Active Development  
 **Target Launch**: Early February 2026  
@@ -114,9 +114,9 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="art-kit/SVG/icon-roadmap.svg" width="24" height="24" align="center"/> Roadmap (Lightweight)
+## <img src="extension-archive/art-kit/SVG/icon-roadmap.svg" width="24" height="24" align="center"/> Roadmap (Lightweight)
 
-### <img src="art-kit/SVG/icon-checkmark.svg" width="20" height="20" align="center"/> Phase 1: Foundation (Complete - Q4 2025)
+### <img src="extension-archive/art-kit/SVG/icon-checkmark.svg" width="20" height="20" align="center"/> Phase 1: Foundation (Complete - Q4 2025)
 
 - Agent Management (Create, Edit, Delete)
 - Visual Schema Designer (Custom Canvas)
@@ -126,7 +126,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 - Backend Strategy Pattern Implementation
 - TailwindCSS Styling & Dark Mode
 
-### <img src="art-kit/SVG/icon-progress.svg" width="20" height="20" align="center"/> Phase 2: Enhancement (In Progress - Q1 2026)
+### <img src="extension-archive/art-kit/SVG/icon-progress.svg" width="20" height="20" align="center"/> Phase 2: Enhancement (In Progress - Q1 2026)
 
 **Execution Infrastructure** (85% Complete)
 - Cost estimation engine with token counting
@@ -166,47 +166,40 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="art-kit/SVG/icon-code.svg" width="24" height="24" align="center"/> Contributing
+## <img src="extension-archive/art-kit/SVG/icon-code.svg" width="24" height="24" align="center"/> Contributing
 
 AI Agency is an **open source project** and welcomes contributors!
 
 ### How to Contribute
 
-- **Report Issues**: Bug reports, feature requests, and feedback
-- **Code Contributions**: Pull requests for features or fixes
-- **Documentation**: Improve guides and examples
-- **Testing**: Help validate features and identify edge cases
-- **Community**: Share workflows, templates, and best practices
+We're looking for passionate developers interested in:
+- **Code Contributions**: Features, bug fixes, and improvements
+- **Architecture & Design**: System design and pattern implementation
+- **Documentation**: Technical guides and examples
+- **Testing**: Quality assurance and edge case validation
+- **Community Building**: Workflows, templates, and best practices
 
-### Development Setup
+### Get In Touch
 
-```bash
-# Clone repository
-git clone https://github.com/binaryjack/copilot-starter-kit.git
-cd ai-agency
+Interested in collaborating? Let's connect!
 
-# Install dependencies
-pnpm install
+**LinkedIn**: Reach out to discuss collaboration opportunities, share ideas, or learn more about the project roadmap.
 
-# Run webapp in development mode
-cd packages/webapp
-pnpm dev
-
-# Run extension
-cd packages/extension
-pnpm watch
-```
-
-**Contribution Guidelines**: Coming soon in `CONTRIBUTING.md`
+We're actively seeking contributors with expertise in:
+- React/Redux ecosystem
+- Node.js/Express backend development
+- AI/LLM integration
+- Developer tools and VS Code extensions
+- UX design for developer tools
 
 ---
 
 ## Get Involved
-
-- **GitHub**: [binaryjack/copilot-starter-kit](https://github.com/binaryjack/copilot-starter-kit)
-- **Issues**: Report bugs or request features
-- **Discussions**: Share ideas and workflows
-- **Documentation**: Comprehensive guides in `docs/business/`
+ 
+📧 **Contact**: Connect via LinkedIn to discuss collaboration  https://www.linkedin.com/in/tadeopiana/
+📖 **Documentation**: Comprehensive guides available in project docs  
+💡 **Ideas**: Share your thoughts on workflows and features  
+🤝 **Community**: Help shape the future of AI-assisted development
 
 ---
 
