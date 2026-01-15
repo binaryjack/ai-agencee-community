@@ -55,7 +55,7 @@ AI Agency provides a structured, visual system that **eliminates manual prompt e
 
 ### Modern Web Application
 
-Available as both **VS Code extension** and **standalone webapp**:
+Available as both **VS Code extension** 
 - React 18 with Redux Toolkit + Redux Saga
 - Feature Slice architecture with Atomic Design components
 - TailwindCSS styling with dark mode support
@@ -114,7 +114,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="extension-archive/art-kit/SVG/icon-roadmap.svg" width="24" height="24" align="center"/> Roadmap (Lightweight)
+## <img src="extension-archive/art-kit/SVG/icon-roadmap.svg" width="24" height="24" align="center"/> Roadmap
 
 ### <img src="extension-archive/art-kit/SVG/icon-checkmark.svg" width="20" height="20" align="center"/> Phase 1: Foundation (Complete - Q4 2025)
 
@@ -168,7 +168,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ## <img src="extension-archive/art-kit/SVG/icon-code.svg" width="24" height="24" align="center"/> Contributing
 
-AI Agency is an **open source project** and welcomes contributors!
+AI Agency is an **open source project** for free tier usages and welcomes contributors!
 
 ### How to Contribute
 
