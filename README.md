@@ -1,7 +1,7 @@
 # AI Agency
 
 <p align="center">
-  <img src="extension-archive/art-kit/SVG/ai-agency-logo.svg" alt="AI Agency Logo" width="200"/>
+  <img src="art-kit/SVG/asset 6.svg" alt="AI Agency Logo" width="600"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## <img src="extension-archive/art-kit/SVG/icon-target.svg" width="24" height="24" align="center"/> The Problem We Solve
+## <img src="art-kit/SVG/icon-target.svg" width="24" height="24" align="center"/> The Problem We Solve
 
 Modern AI-assisted development lacks structure and control:
 
@@ -24,7 +24,7 @@ AI Agency provides a structured, visual system that **eliminates manual prompt e
 
 ---
 
-## <img src="extension-archive/art-kit/SVG/icon-tools.svg" width="24" height="24" align="center"/> What We Bring
+## <img src="art-kit/SVG/icon-tools.svg" width="24" height="24" align="center"/> What We Bring
 
 ### Core Features
 
@@ -63,7 +63,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="extension-archive/art-kit/SVG/icon-users.svg" width="24" height="24" align="center"/> Who It's For
+## <img src="art-kit/SVG/icon-users.svg" width="24" height="24" align="center"/> Who It's For
 
 ### Solo Developers
 - Eliminate repetitive prompt engineering
@@ -85,7 +85,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="extension-archive/art-kit/SVG/icon-calendar.svg" width="24" height="24" align="center"/> Availability
+## <img src="art-kit/SVG/icon-calendar.svg" width="24" height="24" align="center"/> Availability
 
 **Current Status**: Active Development  
 **Target Launch**: Early February 2026  
@@ -114,9 +114,9 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="extension-archive/art-kit/SVG/icon-roadmap.svg" width="24" height="24" align="center"/> Roadmap (Lightweight)
+## <img src="art-kit/SVG/icon-roadmap.svg" width="24" height="24" align="center"/> Roadmap (Lightweight)
 
-### <img src="extension-archive/art-kit/SVG/icon-checkmark.svg" width="20" height="20" align="center"/> Phase 1: Foundation (Complete - Q4 2025)
+### <img src="art-kit/SVG/icon-checkmark.svg" width="20" height="20" align="center"/> Phase 1: Foundation (Complete - Q4 2025)
 
 - Agent Management (Create, Edit, Delete)
 - Visual Schema Designer (Custom Canvas)
@@ -126,7 +126,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 - Backend Strategy Pattern Implementation
 - TailwindCSS Styling & Dark Mode
 
-### <img src="extension-archive/art-kit/SVG/icon-progress.svg" width="20" height="20" align="center"/> Phase 2: Enhancement (In Progress - Q1 2026)
+### <img src="art-kit/SVG/icon-progress.svg" width="20" height="20" align="center"/> Phase 2: Enhancement (In Progress - Q1 2026)
 
 **Execution Infrastructure** (85% Complete)
 - Cost estimation engine with token counting
@@ -166,7 +166,7 @@ Available as both **VS Code extension** and **standalone webapp**:
 
 ---
 
-## <img src="extension-archive/art-kit/SVG/icon-code.svg" width="24" height="24" align="center"/> Contributing
+## <img src="art-kit/SVG/icon-code.svg" width="24" height="24" align="center"/> Contributing
 
 AI Agency is an **open source project** and welcomes contributors!
 

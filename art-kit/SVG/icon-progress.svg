@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon-progress" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .icon-fill {
+        fill: url(#icon-gradient);
+      }
+    </style>
+    <linearGradient id="icon-gradient" x1="32" y1="4" x2="32" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#50f2fc"/>
+      <stop offset="1" stop-color="#1f6591"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <circle class="icon-fill" cx="32" cy="32" r="28" fill="none" stroke="#e0e0e0" stroke-width="3"/>
+    <path class="icon-fill" d="M32,4 A28,28 0 0,1 60,32" fill="none" stroke="url(#icon-gradient)" stroke-width="3" stroke-linecap="round"/>
+    <circle class="icon-fill" cx="32" cy="32" r="8" fill="url(#icon-gradient)"/>
+  </g>
+</svg>

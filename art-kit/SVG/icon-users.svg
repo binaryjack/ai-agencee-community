@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon-users" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .icon-fill {
+        fill: url(#icon-gradient);
+      }
+    </style>
+    <linearGradient id="icon-gradient" x1="32" y1="4" x2="32" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#50f2fc"/>
+      <stop offset="1" stop-color="#1f6591"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <!-- User 1 -->
+    <circle class="icon-fill" cx="24" cy="20" r="8" fill="none" stroke="url(#icon-gradient)" stroke-width="3"/>
+    <path class="icon-fill" d="M10,48 Q10,35 24,35 Q38,35 38,48" fill="none" stroke="url(#icon-gradient)" stroke-width="3"/>
+    <!-- User 2 -->
+    <circle class="icon-fill" cx="44" cy="20" r="8" fill="none" stroke="url(#icon-gradient)" stroke-width="3"/>
+    <path class="icon-fill" d="M30,48 Q30,35 44,35 Q58,35 58,48" fill="none" stroke="url(#icon-gradient)" stroke-width="3"/>
+  </g>
+</svg>

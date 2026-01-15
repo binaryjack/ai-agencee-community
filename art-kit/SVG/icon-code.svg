@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="icon-code" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .icon-fill {
+        fill: url(#icon-gradient);
+      }
+    </style>
+    <linearGradient id="icon-gradient" x1="32" y1="4" x2="32" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#50f2fc"/>
+      <stop offset="1" stop-color="#1f6591"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <polyline points="22,12 8,32 22,52" fill="none" stroke="url(#icon-gradient)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="42,12 56,32 42,52" fill="none" stroke="url(#icon-gradient)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="36" y1="8" x2="28" y2="56" stroke="url(#icon-gradient)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
